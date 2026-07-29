@@ -1,4 +1,5 @@
-## Hi there 👋
+AHMED _MAGID
+ONER fundmention (AMS).
 
 <!--
 **AMO95LORD/AMO95LORD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
