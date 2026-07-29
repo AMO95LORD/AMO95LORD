@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with python-nodejs-html/.
 - 💬 Ask me about c++
 - 📫 How to reach me:critical thinking. 
-- 😄 Pronouns:realise_coding
+- 😄 Pronouns:realise_cray
 - ⚡ Fun fact: cold bear ","/.
 
 -->
